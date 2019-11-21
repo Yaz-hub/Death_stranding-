@@ -2,12 +2,7 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-   background-image: url(Death-Stranding-objet-videoludique-non-identifie-mais-fascinant.jpg);
-   background-size: cover;
-   background-repeat: no-repeat;
-   background-position: center;
-   height: 100vh;
+    width: 100%;
+    height: 100%;
+    background-image: url(Death-Stranding-objet-videoludique-non-identifie-mais-fascinant.jpg);
 }
-
-
-
